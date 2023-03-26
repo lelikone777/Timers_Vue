@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Gotham-pro';
+  src: url('./src/assets/fonts/GothamPro.ttf') format('truetype');
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #353638;
+  font-family: 'Gotham-pro', sans-serif;
+}
+button {
+  border: none;
+}
